@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { CAROUSEL } from '../shared/carousel';
 import NavbarComponent from './NavbarComponent';
 import Carousel from './CarouselComponent';
+import CarouselOne from './CarouselComponent';
 
 
 
@@ -19,8 +20,7 @@ class Main extends Component {
         return (
             <>
                 <NavbarComponent />
-                <h1>Hello</h1>
-                <Carousel />
+                <CarouselOne />
             </>
         )
     

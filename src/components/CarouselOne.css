@@ -1,0 +1,23 @@
+
+
+.container-one img{
+    display: flex;
+}
+
+.container-one h3 {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    left: 40%;
+    bottom:1500%;
+    font-size: 60px;
+}
+
+.container-one p {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    left: 40%;
+    bottom:1300%;
+    font-size: 30px;
+}
